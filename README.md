@@ -88,15 +88,3 @@
 <footer class="footer">
     <p>© 2026 Jhajjar District Karate Association</p>
 </footer>
-
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<h1>TEST</h1>
-</body>
-</html>
