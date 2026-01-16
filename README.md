@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <img src="285572BF-1F2A-4414-A0E9-1542DAD7916B.PNG/logo.png" alt="Jhajjar District Karate Association Logo" class="logo">
     <meta charset="UTF-8">
     <title>Jhajjar District Karate Association</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
