@@ -71,3 +71,89 @@
 
 </body>
 </html>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    color: #333;
+}
+
+/* HEADER */
+.header {
+    background: linear-gradient(90deg, #000000, #b71c1c);
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.logo {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.header h1 {
+    font-size: 24px;
+}
+
+.header h3 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+/* NAVBAR */
+.navbar {
+    background: #d32f2f;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 18px;
+    display: block;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    background: #9a0007;
+}
+
+/* SECTIONS */
+.section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.section h2 {
+    color: #b71c1c;
+    margin-bottom: 10px;
+}
+
+/* CONTACT LINK */
+.contact a {
+    color: #d32f2f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* FOOTER */
+.footer {
+    background: #000;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    margin-top: 20px;
+}
