@@ -18,6 +18,7 @@
     <ul>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
+        <li><a href="#office">Office Bearers</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </nav>
@@ -39,6 +40,18 @@
     </p>
     <p>
         हम जिला एवं राज्य स्तरीय प्रतियोगिताएं, प्रशिक्षण शिविर और सेमिनार आयोजित करते हैं।
+    </p>
+</section>
+
+<!-- OFFICE BEARERS SECTION -->
+<section id="office" class="section office">
+    <h2>Office Bearers / पदाधिकारी</h2>
+
+    <p><strong>President:</strong> Sagar Rathee</p>
+    <p><strong>General Secretary:</strong> Abhay Singh</p>
+
+    <p>
+        Our office bearers work with dedication to promote karate and sports culture in Jhajjar district.
     </p>
 </section>
 
