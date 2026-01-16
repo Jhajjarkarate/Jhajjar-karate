@@ -9,7 +9,7 @@
 <body>
 
 <header class="header">
-    <img src="images/logo.png" alt="Jhajjar District Karate Association Logo" class="logo">
+    <img src=<img src="C:\Users\dell\Desktop\logo.jpeg" width="300" height="200">>
     <h1>Jhajjar District Karate Association</h1>
     <h3>झज्जर जिला कराटे एसोसिएशन</h3>
 </header>
