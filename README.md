@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <img src="285572BF-1F2A-4414-A0E9-1542DAD7916B.PNG/logo.png" alt="Jhajjar District Karate Association Logo" class="logo">
     <meta charset="UTF-8">
     <title>Jhajjar District Karate Association</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,7 +62,27 @@
         <strong>WhatsApp:</strong>
         <a href="https://wa.me/8708361023" target="_blank">8708361023</a>
     </p>
-    <p><strong>Location:</strong> Jhajjar, Haryana</p>
+    <section id="location" class="section">
+    <h2>Our Location / हमारा स्थान</h2>
+    <p>
+        Junoon Karate Academy, Near Khatu Shyam Ji Mandir, Nala Rd, Aggarwal Colony, Bahadurgarh, Haryana 124507
+    </p>
+    <!-- Google Maps Embed -->
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.123456789012!2d76.9123456!3d28.6912345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d09e7a3fd7635%3A0x859fc63bba259810!2sJunoon%20Karate%20Academy!5e0!3m2!1sen!2sin!4v0000000000000"
+        width="100%"
+        height="300"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+    <p>
+        Or click to open in Google Maps: 
+        <a href="https://maps.app.goo.gl/7ocaoQLfEJkjAMT49?g_st=ic" target="_blank">
+            Open Map
+        </a>
+    </p>
 </section>
 
 <footer class="footer">
